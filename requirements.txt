@@ -1,0 +1,8 @@
+groq
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+beautifulsoup4
+ddgs
